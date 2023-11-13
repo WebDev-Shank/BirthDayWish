@@ -18,7 +18,7 @@ body {
   align-items: center;
   border-radius: 10px;
   /* border: 2px solid white; */
-  box-shadow: 0px 0px 5px black;
+  box-shadow: 0px 0px 1px black;
 }
 .avatar {
   width: 160px;
@@ -84,5 +84,6 @@ footer p {
   font-size: 24px;
 }
 .name {
-  color: yellow;
+  color: purple;
+  text-shadow: 1px 1px 10px pink;
 }
